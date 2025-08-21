@@ -4,14 +4,14 @@
 <h3 align="center">Flutter Developer from Egypt 🌍</h3>
 <img align="right" alt="coding" width="400" src="https://media1.tenor.com/m/w3APLkMuTX0AAAAC/computer-work.gif">
 
-- 🔭 I’m currently working on **Graduation Project**
+- 🔭 I’m currently complete studying **Tharwat samy Flutter Cources**
 
 - 🌱 I’m currently learning **How to deal with API and create responsive UI**
 
 - 💬 Ask me about **Android and IOS Apps by Flutter**
 
 - 📫 How to reach me **Fatimahawny@gmail.com**
-- 📄 Look at my CV [**here**](https://drive.google.com/file/d/1cGk8q5O6qaiG0P7kvj3_YJCYssVRmQtP/view?usp=sharing)
+- 📄 Look at my CV [**here**](https://drive.google.com/drive/folders/1--5GlHLW9eoNub9oTvoia7rE6U6nZ-Ce?usp=drive_link)
 <h3 align="left">My Accounts</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/fatmaawny/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Fatmaawny" height="30" width="40" /></a>
