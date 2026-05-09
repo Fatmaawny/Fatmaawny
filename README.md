@@ -34,7 +34,6 @@ If you're looking for a dedicated mobile developer who ships clean, responsive F
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatmaawny/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Fatimahawny@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/fatima.awny.5)
 [![Portfolio](https://img.shields.io/badge/💼_Portfolio-View_My_Work-6C63FF?style=for-the-badge)](https://drive.google.com/drive/folders/1SvFoH5cidBRfyz8gCXH7rtfT5qU3Xomz)
 [![CV](https://img.shields.io/badge/📄_CV-Download-9B59B6?style=for-the-badge)](https://drive.google.com/drive/folders/1--5GlHLW9eoNub9oTvoia7rE6U6nZ-Ce?usp=drive_link)
 
