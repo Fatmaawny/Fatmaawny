@@ -1,20 +1,7 @@
-<!--
-=====================================================================
-  إزاي تعدّلي:
-  - البانر: غيّري رابط الصورة في IMAGE PLACEHOLDER بصورة/جرافيك خاص بيكِ
-    (ممكن تجيبي حاجة abstract/gradient من Unsplash أو تعمليها بنفسك)
-  - الصورة الشخصية: مش بتتحط في الـ README، دي بتتظبط من GitHub Settings
-    -> Edit Profile -> Upload profile photo
-  - Pinned repos (اللي شكلها كروت تحت): دي مش جزء من الـ README برضو،
-    بتتظبط من صفحة البروفايل نفسها -> "Customize your pins"
-  - الروابط تحت "Connect" عبارة عن أزرار نص بسيطة، غيّري النص/الرابط زي ما انتِ عايزة
-=====================================================================
--->
-
 <div align="center">
 
 <!-- ===== IMAGE PLACEHOLDER: بانر بسيط بدل الموجة/الشيلدز ===== -->
-<img src="https://raw.githubusercontent.com/Fatmaawny/Fatmaawny/main/assets/banner.png" alt="banner" width="100%"/>
+<img src="https://i.pinimg.com/1200x/6a/31/ae/6a31aef57141efec7d855990de903420.jpg" alt="banner" width="100%"/>
 
 </div>
 
