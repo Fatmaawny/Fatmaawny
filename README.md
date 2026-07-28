@@ -31,6 +31,16 @@ Currently sharpening my skills in **Responsive UI** and **Animation**, and looki
 
 <br/>
 
+## 🙋‍♀️ About Me
+
+- 🔭 I'm currently working on polishing my Flutter apps and UI/UX skills.
+- 🎯 I worked with **Flutter & Dart**, and have hands-on experience building cross-platform apps.
+- 💬 Ask me about **Flutter, Dart, State Management, Firebase, REST APIs**.
+- ⚡ Interested in **Mobile App Architecture, Clean Code, Animations, and UI/UX Design**.
+- ✨ I only like pixel-perfect UI.
+
+<br/>
+
 **Playground**
 
 A couple of things I've been building:
@@ -40,8 +50,33 @@ A couple of things I've been building:
 
 <br/>
 
+---
+
+## 🧰 Languages & Tools I Have Placed My Hands On
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=dart,flutter,androidstudio,vscode,git,github,figma,firebase" />
 
 </div>
+
+---
+
+## 💻 Tech Stack
+
+<div align="center">
+
+![Dart](https://img.shields.io/badge/-DART-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/-FLUTTER-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/-FIREBASE-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/-GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/-FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VS%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/-ANDROID%20STUDIO-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+
+</div>
+
 
 ---
 
@@ -52,7 +87,6 @@ A couple of things I've been building:
 <img src="https://streak-stats.demolab.com/?user=Fatmaawny&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
-
 
 <div align="center">
 <sub>Building the version of me · I'd hire </sub>
