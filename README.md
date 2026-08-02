@@ -17,7 +17,7 @@
 
 <br/>
 
-> Hey there, I'm Fatma 👋
+> Kon'nichiwa 🙏🏻, I'm Fatma 💕
 
 **Flutter Developer, Fresh Graduate**
 
