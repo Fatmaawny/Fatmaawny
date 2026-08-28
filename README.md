@@ -27,8 +27,6 @@ Currently sharpening my skills in **Responsive UI** and **Animation**, and looki
 
 <br/>
 
----
-
 <br/>
 
 ## 🙋‍♀️ About Me
@@ -50,8 +48,6 @@ A couple of things I've been building:
 
 <br/>
 
----
-
 ## 🧰 Languages & Tools I Have Placed My Hands On
 
 <div align="center">
@@ -59,8 +55,6 @@ A couple of things I've been building:
 <img src="https://skillicons.dev/icons?i=dart,flutter,androidstudio,vscode,git,github,figma,firebase" />
 
 </div>
-
----
 
 ## 🔥 Streak Stats
 
